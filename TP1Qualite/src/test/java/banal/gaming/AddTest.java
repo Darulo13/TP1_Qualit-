@@ -4,6 +4,7 @@ package banal.gaming;
 import junit.framework.TestCase;
 
 public class AddTest extends TestCase {
+    
     public void testAdd(){
         int a = 2;
         int b = 3;
